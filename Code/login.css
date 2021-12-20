@@ -228,3 +228,166 @@
 	font-size: 40px;
 	color: rgba(255,255,255,1);
 }
+#Rechteck_1 {
+	fill: transparent;
+	stroke: rgba(38,75,102,1);
+	stroke-width: 7.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1000px;
+	height: 100px;
+	left: 0px;
+	top: 0px;
+}
+#Mailusername {
+	left: 31px;
+	top: 27px;
+	position: absolute;
+	overflow: visible;
+	width: 295px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#passwordfield {
+	position: absolute;
+	width: 1000px;
+	height: 100px;
+	left: 460px;
+	top: 419px;
+	overflow: visible;
+}
+#Password {
+	left: 31px;
+	top: 27px;
+	position: absolute;
+	overflow: visible;
+	width: 212px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: lighter;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#Rechteck_2 {
+	fill: transparent;
+	stroke: rgba(38,75,102,1);
+	stroke-width: 7.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_2 {
+	position: absolute;
+	overflow: visible;
+	width: 1000px;
+	height: 100px;
+	left: 0px;
+	top: 0px;
+}
+#password_vergessen {
+	position: absolute;
+	width: 285px;
+	height: 30px;
+	left: 461px;
+	top: 559px;
+	overflow: visible;
+}
+#Rechteck_3 {
+	fill: transparent;
+	stroke: rgba(59,110,113,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_3 {
+	position: absolute;
+	overflow: visible;
+	width: 30px;
+	height: 30px;
+	left: 0px;
+	top: 0px;
+}
+#Rechteck_1 {
+	fill: transparent;
+	stroke: rgba(38,75,102,1);
+	stroke-width: 7.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_1 {
+	position: absolute;
+	overflow: visible;
+	width: 1000px;
+	height: 100px;
+	left: 0px;
+	top: 0px;
+}
+#mailusernamefield {
+	position: absolute;
+	width: 1000px;
+	height: 100px;
+	left: 460px;
+	top: 269px;
+	overflow: visible;
+}
+#Loginbutton {
+	position: absolute;
+	width: 361px;
+	height: 91px;
+	left: 1099px;
+	top: 569px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Home.html;
+	cursor: pointer;
+}
+#Login_ {
+	left: 30px;
+	top: 22px;
+	position: absolute;
+	overflow: visible;
+	width: 261px;
+	height: 48px;
+	text-align: left;
+	font-family: Helvetica Neue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(255,255,255,1);
+}
+#Rechteck_5 {
+	fill: rgba(38,82,114,1);
+	stroke: rgba(59,110,113,1);
+	stroke-width: 7.5px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rechteck_5 {
+	position: absolute;
+	overflow: visible;
+	width: 361px;
+	height: 91px;
+	left: 0px;
+	top: 0px;
+}
